@@ -1,4 +1,4 @@
-cd $HOME/dev/open_source/ebisu_jugo
+cd $HOME/dev/open_source/ebisu_all
 git submodule add https://github.com/patefacio/id
 git submodule add https://github.com/patefacio/ebisu
 git submodule add https://github.com/patefacio/ebisu_cpp
