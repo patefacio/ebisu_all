@@ -1,0 +1,24 @@
+[submodule "id"]
+	path = id
+	url = https://github.com/patefacio/id
+[submodule "ebisu"]
+	path = ebisu
+	url = https://github.com/patefacio/ebisu
+[submodule "ebisu_cpp"]
+	path = ebisu_cpp
+	url = https://github.com/patefacio/ebisu_cpp
+[submodule "ebisu_cpp_db"]
+	path = ebisu_cpp_db
+	url = https://github.com/patefacio/ebisu_cpp_db
+[submodule "ebisu_py"]
+	path = ebisu_py
+	url = https://github.com/patefacio/ebisu_py
+[submodule "ebisu_pod"]
+	path = ebisu_pod
+	url = https://github.com/patefacio/ebisu_pod
+[submodule "ebisu_ang"]
+	path = ebisu_ang
+	url = https://github.com/patefacio/ebisu_ang
+[submodule "ebisu_capnp"]
+	path = ebisu_capnp
+	url = https://github.com/patefacio/ebisu_capnp
